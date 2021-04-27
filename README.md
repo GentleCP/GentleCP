@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=GentleCP&color=yellowgreen)
 
 🖐️Hi,there. I'm GentleCP, a student from the University of China Academy of Sciences, welcome to my `Github profile`. For now, I'm still working hard to be a good programmer. 
-- ✉️contact me: dongchaopeng@iie.ac.cn
+- ✉️contact me: dongchaopeng@iie.ac.cn or 574881148@qq.com
 - 🕸️personal blog 👉 https://blog.gentlecp.com (publish useful articles about programming and security)
 
 ## Research
