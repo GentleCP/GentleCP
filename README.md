@@ -6,6 +6,10 @@
 - ✉️contact me: 574881148@qq.com
 - 🕸️personal blog 👉 https://blog.gentlecp.com (publish useful articles about programming and security)
 
+## Research
+- IoT/ICS security
+- software supply chain security
+
 ## Recommand projects 
 
 - :smiley: [corpwechat-bot](https://github.com/GentleCP/corpwechat-bot): A really useful tool for sending messages from server to wechat on your mobile phone.
