@@ -5,7 +5,7 @@
 🖐️Hi,there. I'm GentleCP, a student from the University of China Academy of Sciences, welcome to my `Github profile`. For now, I'm still working hard to be a good programmer. 
 
 ## 💁 💻 My recent working status
-- :pencil2: I'm currently working on my new opon souurce project `corpwechat-bot`, and it comes to the versino `0.2.1` in which some new features has been added.
+- :pencil2: I'm currently working on my new opon souurce project `corpwechat-bot`, and it comes to the version `0.2.1` in which some new features has been added.
 - :blue_book: I'm currently learning basic knowledage about program analysis, such as **static analysis**, **symbolic execution**. It is quite hard for a newbee like me, but I will keep learning.
 - 🤔: Most importantly, I am reading a lot of papers and looking forward to finding research ideas.
 - 📚: Reading books about how to be a better programmer. Perhaps I will write some related articles on my [blog](https://blog.gentlecp.com).
