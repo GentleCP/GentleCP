@@ -6,14 +6,14 @@
 
 ## 💁 💻 My recent working status
 - :pencil2: I'm currently working on my new opon source project [corpwechat-bot](https://github.com/GentleCP/corpwechat-bot), and it comes to the version `0.2.1` in which some new features has been added.
-- :blue_book: I'm currently learning basic knowledage about program analysis, such as **static analysis**, **symbolic execution**. It is quite hard for a newbee like me, but I will keep learning.
+- :blue_book: I'm currently learning basic knowledage about program analysis, such as **static analysis**, **symbolic execution**. It is quite hard for a novice like me, but I will keep learning.
 - 🤔: Most importantly, I am reading a lot of papers and looking forward to finding research ideas.
 - 📚: Reading books about how to be a better programmer. Perhaps I will write some related articles on my [blog](https://blog.gentlecp.com).
 - 📓: Learning **English**, as we all know, it is the most basic skill for a programmer.
 
-## 👦 Know more things about GentleCP
+## 👦 Know more things about me
 - ❔At first, why named `GentleCP` ?
-> Well, my real name is Chaopeng, when I was a undergraduuate student, my partners always call me `CP` which looks easier to remember. I accept the nickname and add a prefix in front of it. As for the `Gentle`, it comes from the word `Gentleman` which means someone I would like to be.
+> Well, my real name is Chaopeng, when I was a undergraduate student, my partners always call me `CP` which looks easier to remember. I accept the nickname and add a prefix in front of it. As for the `Gentle`, it comes from the word `Gentleman` which means someone I would like to be.
 
 - ❓My hobbies ?
     - 💻  programming
@@ -25,10 +25,10 @@
     - IoT/ICS security
     - software supply chain security(for now)
 
-- ✉️ contact me
+- ✉️ Contact me
     - 🔭 research & work: dongchaopeng@iie.ac.cn
     - :boy: personal: gentlecp@foxmail.com or chaopengcp@gmail.com
-    - 🔖 Leave a message on my personal blog 👉 https://blog.gentlecp.com
+    - 🔖 Leave a message on my personal [blog](https://blog.gentlecp.com/about/)
     
 ## Recommand projects 
 
