@@ -26,8 +26,8 @@
     - software supply chain security(for now)
 
 - ✉️ Contact me
-    - 🔭 research & work: dongchaopeng@iie.ac.cn
-    - :boy: personal: gentlecp@foxmail.com or chaopengcp@gmail.com
+    - 🔭 research & work: dongchaopeng@iie.ac.cn 
+    - :boy: personal: me@gentlecp.com
     - 🔖 Leave a message on my personal [blog](https://blog.gentlecp.com/about/)
     
 ## Recommand projects 
