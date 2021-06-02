@@ -12,8 +12,6 @@
 - 📓: Learning **English**, as we all know, it is the most basic skill for a programmer.
 
 ## 👦 Know more things about me
-- ❔At first, why named `GentleCP` ?
-> Well, my real name is Chaopeng, when I was a undergraduate student, my partners always call me `CP` which looks easier to remember. I accept the nickname and add a prefix in front of it. As for the `Gentle`, it comes from the word `Gentleman` which means someone I would like to be.
 
 - ❓My hobbies ?
     - 💻  programming
