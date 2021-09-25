@@ -6,14 +6,13 @@
 
 ## 💁 My recent working status
 - 🔬 Doing the experiments for my research
-- 💻 Working on open source project: [corpwechat-bot](https://github.com/GentleCP/corpwechat-bot)
+- 💻 Organize my workflow
 - 🔖 Improving English listening and speaking
 
 ## 👦 Know more things about me
 
 - ❓My hobbies ?
     - 💻 programming
-    - 🎮 ~~playing games, e.g. OverWatch 😙~~
     - 📝 writing articles 
     - 🎱 billiards 
 
