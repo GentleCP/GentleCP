@@ -4,8 +4,11 @@
 
 🖐️Hi,there. I'm GentleCP, a student from the University of China Academy of Sciences, welcome to my `Github profile`.
 
-> There is nothing to show right now.
+> Working on my first research paper...:fist:
 
+- 📢 Research
+    - C/C++ binary TPL detection
+    - supply chain security
 - ✉️ Contact me
     - 🔭 research & work: dongchaopeng@iie.ac.cn 
     - :boy: personal: me@gentlecp.com
