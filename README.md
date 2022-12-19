@@ -4,7 +4,6 @@
 
 🖐️Hi,there. I'm GentleCP, a student from the University of China Academy of Sciences, welcome to my `Github profile`.
 
-> Working on my first research paper...:fist:
 
 - 📢 Research
     - C/C++ binary TPL detection
