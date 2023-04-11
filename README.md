@@ -2,14 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=GentleCP&color=yellowgreen)
 
-🖐️Hi,there. I'm GentleCP, a student from the University of China Academy of Sciences, welcome to my `Github profile`.
-
-
 - 📢 Research
     - C/C++ binary TPL detection
     - supply chain security
 - ✉️ Contact me
-    - 🔭 research & work: dongchaopeng@iie.ac.cn 
     - :boy: personal: me@gentlecp.com
     
 
