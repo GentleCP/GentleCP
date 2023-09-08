@@ -9,7 +9,7 @@
     - IoT & Binary Security
 - ✉️ Contact me
     - 🔭 Research: dongchaopeng@iie.ac.cn
-    - 👨‍🦲: Personal: me@gentlecp.com
+    - 👨‍🦲 Personal: me@gentlecp.com
 - Website: https://gentlecp.com/
 
     
