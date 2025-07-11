@@ -4,13 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=GentleCP&color=yellowgreen)
 
 - 📢 Research
-    - Supply Shain Security
-    - Open-source Security
-    - IoT & Binary Security
+    - Software supply chain security
+    - IoT security
 - ✉️ Contact me
     - 🔭 Research: dongchaopeng@iie.ac.cn
-    - 👨‍🦲 Personal: me@gentlecp.com
-- Website: https://gentlecp.com/
+    - 👨‍🦲 Personal: chaopengcp@gmail.com
 
     
 [![GentleCP's github stats](https://github-readme-stats.vercel.app/api?username=GentleCP&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
