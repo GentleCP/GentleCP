@@ -9,7 +9,7 @@
     - ICS Security
     - Program Analysis
 - ✉️ Contact me
-    - 🔭 Research: dongchaopeng@hdu.ac.cn
+    - 🔭 Research: dongchaopeng@hdu.edu.cn
     - 👨‍🦲 Personal: chaopengcp@gmail.com
 
 For more information about my research and publications, please click [here](https://gentlecp.github.io/)
