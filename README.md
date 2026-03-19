@@ -4,10 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=GentleCP&color=yellowgreen)
 
 - 📢 Research
-    - Software supply chain security
-    - IoT security
+    - Software Supply Chain Security
+    - IoT Security
+    - ICS Security
+    - Program Analysis
 - ✉️ Contact me
-    - 🔭 Research: dongchaopeng@iie.ac.cn
+    - 🔭 Research: dongchaopeng@hdu.ac.cn
     - 👨‍🦲 Personal: chaopengcp@gmail.com
 
 For more information about my research and publications, please click [here](https://gentlecp.github.io/)
